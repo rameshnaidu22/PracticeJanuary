@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+    <listeners>
+        <listener class-name="com.qa.listeners.TestListener" />
+    </listeners>
+    <test thread-count="3" name="PracticeJan">
+
+
+        <classes>
+
+            <class name="com.qa.test.Practice11"/>
+<!--            <class name="com.qa.test.Practice22"/>-->
+        </classes>
+
+    </test> <!-- selenium_prac22 -->
+</suite> <!-- Failed suite [Default Suite] -->

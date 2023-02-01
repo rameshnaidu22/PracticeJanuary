@@ -1,0 +1,16 @@
+[INFO ] 2023-01-29 18:46:57.468 com.qa.BaseTest:36 - driver stareted
+[INFO ] 2023-01-29 18:46:58.703 com.qa.BaseTest:38 - website  opened
+[ERROR] 2023-01-29 18:47:01.727 com.qa.BaseTest:65 - Expected condition failed: waiting for presence of element located by: By.xpath: //canvas[@id='ctaCanvas123'] (tried for 3 second(s) with 500 milliseconds interval)
+[FATAL] 2023-01-29 18:47:01.736 com.qa.BaseTest:67 - fatal log
+[INFO ] 2023-01-29 18:48:40.274 com.qa.BaseTest:36 - driver stareted
+[INFO ] 2023-01-29 18:48:41.759 com.qa.BaseTest:38 - website  opened
+[ERROR] 2023-01-29 18:48:45.333 com.qa.BaseTest:65 - Expected condition failed: waiting for presence of element located by: By.xpath: //canvas[@id='ctaCanvas123'] (tried for 3 second(s) with 500 milliseconds interval)
+[FATAL] 2023-01-29 18:48:45.344 com.qa.BaseTest:67 - fatal log
+[INFO ] 2023-01-29 18:49:42.660 com.qa.BaseTest:36 - driver stareted
+[INFO ] 2023-01-29 18:49:43.919 com.qa.BaseTest:38 - website  opened
+[ERROR] 2023-01-29 18:49:47.459 com.qa.BaseTest:65 - Expected condition failed: waiting for presence of element located by: By.xpath: //canvas[@id='ctaCanvas123'] (tried for 3 second(s) with 500 milliseconds interval)
+[FATAL] 2023-01-29 18:49:47.470 com.qa.BaseTest:67 - fatal log
+[INFO ] 2023-01-29 18:50:10.504 com.qa.BaseTest:36 - driver stareted
+[INFO ] 2023-01-29 18:50:13.820 com.qa.BaseTest:38 - website  opened
+[ERROR] 2023-01-29 18:50:17.120 com.qa.BaseTest:65 - Expected condition failed: waiting for presence of element located by: By.xpath: //canvas[@id='ctaCanvas123'] (tried for 3 second(s) with 500 milliseconds interval)
+[FATAL] 2023-01-29 18:50:17.131 com.qa.BaseTest:67 - fatal log
